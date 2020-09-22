@@ -1,4 +1,7 @@
-## TODO APP
+## Technology Used:
+* Backend: Django, DRF
+* Frontend: React.JS
+* Database: SQLite, PostgreSQL
 
 In the project directory, to start the app:
 
