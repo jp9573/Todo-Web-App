@@ -1,5 +1,5 @@
 import React from 'react';
-import TodoContainer from './Component/TodoContainer'
+import TodoContainer from './components/TodoContainer'
 
 class App extends React.Component {
     render() {
