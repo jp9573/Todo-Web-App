@@ -10,6 +10,8 @@ and then
 
 ### `python manage.py runserver`
 
+Don't forget to migrate if running for the first time by `python manage.py migrate`
+
 In another terminnal hit the following command:
 
 ### `npm start`
