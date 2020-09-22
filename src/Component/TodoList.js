@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Todos = ({todos, deleteTodo}) => {
+const TodoList = ({todos, deleteTodo}) => {
     const todosList = todos.length ? ( todos.map(todo => {
         return (
             <div className="collection-item" key={todo.id} onClick={() => {deleteTodo(todo.id)}}>
@@ -17,4 +17,4 @@ const Todos = ({todos, deleteTodo}) => {
     )
 }
 
-export default Todos
+export default TodoList
