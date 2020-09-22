@@ -1,4 +1,4 @@
-## Technology Used:
+## TODO Web App - Technology Stack:
 * Backend: Django, DRF
 * Frontend: React.JS
 * Database: SQLite, PostgreSQL
