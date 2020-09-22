@@ -4,11 +4,11 @@ In the project directory, to start the app:
 
 First start Django backend by
 
-### cd todo_backend
+### `cd todo_backend`
 
 and then 
 
-### python manage.py runserver
+### `python manage.py runserver`
 
 In another terminnal hit the following command:
 
